@@ -7,4 +7,4 @@ The final projects containing the solution is present under 'after' folder.
 
 ## Enroll in the course to learn about .NET 6 and C# 10
 Get upto 90% off using the link below:
-https://www.udemy.com/course/whats-new-net-csharp
+https://codewithpraveen.com/whats-new-net-csharp
